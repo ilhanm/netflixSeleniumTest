@@ -1,0 +1,15 @@
+Login screen opened --> SUCCESS
+Username entered --> SUCCESS
+Password entered --> SUCCESS
+Logined --> SUCCESS
+User selected --> SUCCESS
+Movie selected --> SUCCESS
+Cant forwarding--> FAIL
+10sec forwarding --> SUCCESS
+10sec forwarding --> SUCCESS
+10sec rewind --> SUCCESS
+Movie Stopped --> SUCCESS
+Go Fullscreen --> SUCCESS
+Out Fullscreen --> SUCCESS
+Go Back to HomePage --> SUCCESS
+Details Checked --> SUCCESS
