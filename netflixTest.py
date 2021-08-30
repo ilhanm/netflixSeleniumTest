@@ -6,8 +6,9 @@ import datetime
 from UserInfo import netflixUsername, netflixPassword
 from PIL import Image
 #from Screenshot import Screenshot_clipping
-# create instance of Chrome webdriver
+
 import sys
+
 
 original_stdout = sys.stdout # Save a reference to the original standard output
 
